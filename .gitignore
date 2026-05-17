@@ -1,0 +1,22 @@
+# Node
+node_modules
+build
+
+# React
+demo-blog-frontend/node_modules
+demo-blog-frontend/build
+
+# Java
+.gradle
+build
+out
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# Logs
+*.log
