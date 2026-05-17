@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Blog React Java Spring Boot Full Stack App
 
 ![React](https://img.shields.io/badge/React-18.2.0-61dafb)
@@ -27,3 +28,6 @@ username: `admin` password: `admin`.
 ### Reference
 * [Blog REST API documentation](./demo-blog-backend/README.md)
 * [Sister project using Thymeleaf and Spring MVC](https://github.com/hmurij/thymeleaf-spring-mvc-blog)
+=======
+# inkwell-blog
+>>>>>>> cfedf5539ffb01f5a5cae7cd90be43a9ae799047
